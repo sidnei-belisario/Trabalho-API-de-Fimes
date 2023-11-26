@@ -1,0 +1,108 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap&family=Benne&display=swap');
+* {
+    font-family: 'Benne', serif;
+} */
+
+body {
+    background-color: #999793;
+}
+
+.bg-blue {
+    background-color: #ebdfdf;
+}
+
+#nav img {
+    margin-left: 3vw;
+}
+
+#nav-text {
+    text-align: right;
+    margin-right: 3vw !important;
+    width: auto !important;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.btn-primary {
+    background-color: #2b2825 !important;
+    border-color: #b9aca2 !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+
+.btn-primary a {
+    color: #ddcbcb;
+    text-decoration: none;
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+.btn-primary a:hover {
+    color: #04434e;
+    text-decoration: none;
+}
+
+#title {
+    font-size: 18px;
+    text-align: center;
+}
+
+div #img-filme {
+    width: 250px;
+}
+
+#title-detalhes {
+    font-size: 25px;
+}
+
+#descricao {
+    font-size: 19px;
+}
+
+#dataLancamento {
+    font-size: 17px;
+}
+
+#nota {
+    font-size: 17px;
+}
+
+#filme {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+#footer-site {
+    margin-left: 3vw;
+    margin-bottom: 2px;
+    padding-top: 5vw;
+}
+
+#footer {
+    font-size: 22px;
+    height: 12vw;
+}
+
+#footer-proj hr {
+    margin-top: 0;
+    margin-left: -41px;
+}
+
+#footer-logo {
+    padding-top: 2vw;
+    text-align: center;
+    width: 150px;
+}
+
+#footer-since {
+    text-align: end;
+    margin-bottom: 2px;
+    padding-top: 5vw;
+}
+
+#footer-grupo hr {
+    margin-left: 152px;
+    margin-top: 0;
+}
